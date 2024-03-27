@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(144, 134, 180);
+
+h1 {
+    color:rgb(36, 21, 9);
+    text-align:center;
+}
+
+h4 {
+  color:rgb(36, 21, 3);
+  text-align:center;
+}
+
+button {
+    background-color: rgb(23, 8, 59);
+    width: 200px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 3px solid rgb(46, 22, 7);
+    color: white;
+    cursor: pointer;
+  }
+   
+
+
+  .text-center {
+    text-align: center;
+  }
+
+}
